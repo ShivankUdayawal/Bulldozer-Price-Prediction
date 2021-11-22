@@ -1,7 +1,7 @@
 # Bulldozer-Price-Prediction
 ## Predicting the future sale price of a bulldozer
 
-
+![](https://github.com/ShivankUdayawal/Bulldozer-Price-Prediction/blob/main/Data%20Visualization/01.jpg)
 ### Problem Statement :
 1. How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
 
